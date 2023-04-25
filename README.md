@@ -12,7 +12,7 @@ I entered this wonderful world of programming some time ago where learning conti
 
 
 ### What I do?  
-I am currently learning Next.js and then continue to build projects for my portfolio.  
+I am currently creating individual projects for my portfolio. 
   
 
 
